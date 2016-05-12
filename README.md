@@ -20,12 +20,15 @@
  a. List databases, verify if 'employees' is present:
  
 ```show databases;```
+
  b. Use 'employees' database
  
 ```use employees; select database();```
+
  c. Show tables
  
 ```show tables;```
+
  d. Show columns on one table
  
 ```describe employees;```
