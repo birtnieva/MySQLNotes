@@ -1,8 +1,7 @@
 # MySQLNotes
 
-
 -------------------------------------------
- Installing MySQL Test Database (employees)
+### Installing MySQL Test Database (employees)
 -------------------------------------------
 
 1. wget https://github.com/datacharmer/test_db/archive/master.zip
