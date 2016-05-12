@@ -17,11 +17,11 @@
 
 6. Verify result
 
-.1. List databases, verify if 'employees' is present:
+ 1. List databases, verify if 'employees' is present:
 ```show databases;```
-.2. Use 'employees' database
+ 2. Use 'employees' database
 ```use employees; select database();```
-.3. Show tables
+ 3. Show tables
 ```show tables;```
-.4. Show columns on one table
+ 4. Show columns on one table
 ```describe employees;```
